@@ -51,7 +51,7 @@ public class BaseClass {
 				cap.setPlatform(Platform.LINUX);
 			}			
 			else{
-				System.out.println("no matching OS in testng xml-so exit");
+				System.out.println("noo matching OS in testng xml-so exit");
 				return;
 			}
 			//browser for remote execution
