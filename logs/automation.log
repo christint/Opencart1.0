@@ -1,0 +1,28 @@
+10:07:55.400 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+10:07:55.411 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+10:07:56.690 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+10:08:01.717 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+10:08:05.633 [main] INFO  testCases.TC002_LoginTest - ****Started login test****
+10:08:07.263 [main] INFO  testCases.TC002_LoginTest - ****Login btn clicked****
+10:08:07.302 [main] INFO  testCases.TC002_LoginTest - ****Login Success****
+10:08:07.302 [main] INFO  testCases.TC002_LoginTest - ****Ended login test****
+10:11:59.686 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+10:11:59.819 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+10:12:00.473 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+10:12:00.475 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+10:12:01.595 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+10:12:06.638 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+10:12:10.678 [main] INFO  testCases.TC002_LoginTest - ****Started login test****
+10:12:12.305 [main] INFO  testCases.TC002_LoginTest - ****Login btn clicked****
+10:12:12.347 [main] INFO  testCases.TC002_LoginTest - ****Login Success****
+10:12:12.347 [main] INFO  testCases.TC002_LoginTest - ****Ended login test****
+10:51:48.089 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+10:51:48.221 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+10:51:48.923 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+10:51:48.927 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+10:51:50.358 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+10:51:55.400 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+10:52:01.409 [main] INFO  testCases.TC002_LoginTest - ****Started login test****
+10:52:03.165 [main] INFO  testCases.TC002_LoginTest - ****Login btn clicked****
+10:52:03.214 [main] INFO  testCases.TC002_LoginTest - ****Login Success****
+10:52:03.215 [main] INFO  testCases.TC002_LoginTest - ****Ended login test****

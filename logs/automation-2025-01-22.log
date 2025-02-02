@@ -1,0 +1,51 @@
+14:53:42.650 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+14:53:42.750 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+14:53:43.386 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+14:53:43.388 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+14:53:44.911 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+14:53:44.913 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+14:55:49.508 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+14:55:49.635 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+14:55:50.331 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+14:55:50.333 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+14:55:52.587 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+14:55:52.590 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+14:58:25.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+14:58:25.983 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+14:58:26.640 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+14:58:26.642 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+14:58:28.388 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:16:38.894 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:16:39.012 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:16:39.690 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:16:39.692 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:16:41.217 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:18:34.500 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:18:34.639 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:18:35.300 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:18:35.302 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:18:36.780 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:18:36.783 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+15:22:55.737 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:22:56.108 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:22:56.888 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:22:56.890 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:22:57.498 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:22:57.548 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:22:57.734 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:22:57.749 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:22:58.536 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:22:58.538 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:22:58.614 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:22:58.615 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:22:59.459 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:22:59.462 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+15:23:00.436 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:23:00.436 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+15:23:00.663 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
+15:23:00.663 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Completed test****
+15:39:34.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started test****
+15:39:35.070 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked myaccount
+15:39:35.733 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked register
+15:39:35.735 [main] INFO  testCases.TC001_AccountRegistrationTest - entering registration page details
+15:39:37.207 [main] INFO  testCases.TC001_AccountRegistrationTest - validating successful registration message
